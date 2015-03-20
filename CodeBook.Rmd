@@ -15,7 +15,7 @@ Citation (Request by Authors)
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-VARIABLE LIST
+VARIABLE LIST (best observed in RAW format)
 subject                                   Subject ID
 activity                                  Activity (1 of 6: 1=walking, 2=walking upstairs, 3=walking downstairs, 4=sitting, 5=standing, 6=laying)
 timeBodyAccelerometer-mean()-X            Mean time for acceleration of body for X direction
