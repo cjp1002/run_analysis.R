@@ -83,7 +83,7 @@ frequencyBodyAccelerometerJerkMagnitude-std()   Standard deviation of frequency 
 frequencyBodyGyroscopeMagnitude-mean()          Mean frequency of magnitude of body gyroscope measurement
 frequencyBodyGyroscopeMagnitude-std()           Standard deviation of magnitude of body gyroscope measurement
 frequencyBodyGyroscopeJerkMagnitude-mean()      Mean frequency of magnitude of body gyroscope jerk measurement
-frequencyBodyGyroscopeJerkMagnitude-std()       Standard deviation of frequency of magnitude of body gyroscope jerk measurement
+frequencyBodyGyroscopeJerkMagnitude-std()         Standard deviation of frequency of magnitude of body gyroscope jerk measurement
 
 
 
